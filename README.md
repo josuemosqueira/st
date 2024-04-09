@@ -8,7 +8,7 @@ Parches añadidos:
 
 # demo:
 
-Cuatro instancias de ST, corriendo ![rTorrent](https://github.com/jesec/rtorrent), ![cmus]([https://cmus.github.io]) , ![ytfzf](https://github.com/pystardust/ytfzf) y ![nchat](https://github.com/d99kris/nchat).
+Cuatro instancias de ST, corriendo ![rTorrent](https://github.com/jesec/rtorrent), ![cmus](https://github.com/cmus/cmus) , ![ytfzf](https://github.com/pystardust/ytfzf) y ![nchat](https://github.com/d99kris/nchat).
 
 
 ![s-t](https://github.com/josuemosqueira/st/blob/main/2024-04-09-095508_1920x1080_scrot.png)
